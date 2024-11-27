@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  neo4j:
+    image: neo4j:latest
+    container_name: neo4j
+    ports:
+      - "7474:7474"   # Puerto para la interfaz web
+      - "7687:7687"   # Puerto para el protocolo Bolt
+    volumes:
+      - ./data:/data            # Volumen para almacenar los datos
+      - ./import:/var/lib/neo4j/import # Volumen para importar archivos
+    environment:
+      - NEO4J_AUTH=none  # Configura usuario y contraseña

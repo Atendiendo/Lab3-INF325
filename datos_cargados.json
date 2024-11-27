@@ -1,0 +1,908 @@
+{
+    "sectores": [
+        {
+            "id_sector": "1",
+            "nombre": "Sector 1",
+            "area_m2": 632
+        },
+        {
+            "id_sector": "2",
+            "nombre": "Sector 2",
+            "area_m2": 404
+        },
+        {
+            "id_sector": "3",
+            "nombre": "Sector 3",
+            "area_m2": 754
+        },
+        {
+            "id_sector": "4",
+            "nombre": "Sector 4",
+            "area_m2": 392
+        },
+        {
+            "id_sector": "5",
+            "nombre": "Sector 5",
+            "area_m2": 727
+        },
+        {
+            "id_sector": "6",
+            "nombre": "Sector 6",
+            "area_m2": 221
+        },
+        {
+            "id_sector": "7",
+            "nombre": "Sector 7",
+            "area_m2": 601
+        },
+        {
+            "id_sector": "8",
+            "nombre": "Sector 8",
+            "area_m2": 234
+        },
+        {
+            "id_sector": "9",
+            "nombre": "Sector 9",
+            "area_m2": 971
+        },
+        {
+            "id_sector": "10",
+            "nombre": "Sector 10",
+            "area_m2": 438
+        },
+        {
+            "id_sector": "11",
+            "nombre": "Sector 11",
+            "area_m2": 546
+        },
+        {
+            "id_sector": "12",
+            "nombre": "Sector 12",
+            "area_m2": 892
+        },
+        {
+            "id_sector": "13",
+            "nombre": "Sector 13",
+            "area_m2": 955
+        },
+        {
+            "id_sector": "14",
+            "nombre": "Sector 14",
+            "area_m2": 222
+        },
+        {
+            "id_sector": "15",
+            "nombre": "Sector 15",
+            "area_m2": 268
+        },
+        {
+            "id_sector": "16",
+            "nombre": "Sector 16",
+            "area_m2": 749
+        },
+        {
+            "id_sector": "17",
+            "nombre": "Sector 17",
+            "area_m2": 120
+        },
+        {
+            "id_sector": "18",
+            "nombre": "Sector 18",
+            "area_m2": 379
+        },
+        {
+            "id_sector": "19",
+            "nombre": "Sector 19",
+            "area_m2": 733
+        },
+        {
+            "id_sector": "20",
+            "nombre": "Sector 20",
+            "area_m2": 456
+        }
+    ],
+    "encargados": [
+        {
+            "id_encargado": "1",
+            "nombre": "Encargado 1",
+            "porcentaje_cumplimiento": 64
+        },
+        {
+            "id_encargado": "2",
+            "nombre": "Encargado 2",
+            "porcentaje_cumplimiento": 91
+        },
+        {
+            "id_encargado": "3",
+            "nombre": "Encargado 3",
+            "porcentaje_cumplimiento": 60
+        },
+        {
+            "id_encargado": "4",
+            "nombre": "Encargado 4",
+            "porcentaje_cumplimiento": 61
+        },
+        {
+            "id_encargado": "5",
+            "nombre": "Encargado 5",
+            "porcentaje_cumplimiento": 98
+        },
+        {
+            "id_encargado": "6",
+            "nombre": "Encargado 6",
+            "porcentaje_cumplimiento": 99
+        },
+        {
+            "id_encargado": "7",
+            "nombre": "Encargado 7",
+            "porcentaje_cumplimiento": 97
+        },
+        {
+            "id_encargado": "8",
+            "nombre": "Encargado 8",
+            "porcentaje_cumplimiento": 100
+        },
+        {
+            "id_encargado": "9",
+            "nombre": "Encargado 9",
+            "porcentaje_cumplimiento": 100
+        },
+        {
+            "id_encargado": "10",
+            "nombre": "Encargado 10",
+            "porcentaje_cumplimiento": 95
+        },
+        {
+            "id_encargado": "11",
+            "nombre": "Encargado 11",
+            "porcentaje_cumplimiento": 91
+        },
+        {
+            "id_encargado": "12",
+            "nombre": "Encargado 12",
+            "porcentaje_cumplimiento": 61
+        },
+        {
+            "id_encargado": "13",
+            "nombre": "Encargado 13",
+            "porcentaje_cumplimiento": 86
+        },
+        {
+            "id_encargado": "14",
+            "nombre": "Encargado 14",
+            "porcentaje_cumplimiento": 81
+        },
+        {
+            "id_encargado": "15",
+            "nombre": "Encargado 15",
+            "porcentaje_cumplimiento": 74
+        },
+        {
+            "id_encargado": "16",
+            "nombre": "Encargado 16",
+            "porcentaje_cumplimiento": 76
+        },
+        {
+            "id_encargado": "17",
+            "nombre": "Encargado 17",
+            "porcentaje_cumplimiento": 60
+        },
+        {
+            "id_encargado": "18",
+            "nombre": "Encargado 18",
+            "porcentaje_cumplimiento": 70
+        },
+        {
+            "id_encargado": "19",
+            "nombre": "Encargado 19",
+            "porcentaje_cumplimiento": 72
+        },
+        {
+            "id_encargado": "20",
+            "nombre": "Encargado 20",
+            "porcentaje_cumplimiento": 87
+        }
+    ],
+    "arboles": [
+        {
+            "id_arbol": "1",
+            "tipo": "nogal",
+            "nombre_cientifico": "Juglans regia",
+            "latitud": -34.232724,
+            "longitud": -70.258314
+        },
+        {
+            "id_arbol": "2",
+            "tipo": "palto",
+            "nombre_cientifico": "Persea americana",
+            "latitud": -33.239284,
+            "longitud": -71.417849
+        },
+        {
+            "id_arbol": "3",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -34.93329,
+            "longitud": -70.646445
+        },
+        {
+            "id_arbol": "4",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -33.856153,
+            "longitud": -70.243531
+        },
+        {
+            "id_arbol": "5",
+            "tipo": "palto",
+            "nombre_cientifico": "Persea americana",
+            "latitud": -33.175527,
+            "longitud": -71.382681
+        },
+        {
+            "id_arbol": "6",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -34.851354,
+            "longitud": -70.547916
+        },
+        {
+            "id_arbol": "7",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -34.545092,
+            "longitud": -70.001886
+        },
+        {
+            "id_arbol": "8",
+            "tipo": "manzano",
+            "nombre_cientifico": "Malus domestica",
+            "latitud": -33.509782,
+            "longitud": -70.446964
+        },
+        {
+            "id_arbol": "9",
+            "tipo": "palto",
+            "nombre_cientifico": "Persea americana",
+            "latitud": -33.724033,
+            "longitud": -70.533648
+        },
+        {
+            "id_arbol": "10",
+            "tipo": "manzano",
+            "nombre_cientifico": "Malus domestica",
+            "latitud": -33.767822,
+            "longitud": -70.126667
+        },
+        {
+            "id_arbol": "11",
+            "tipo": "manzano",
+            "nombre_cientifico": "Malus domestica",
+            "latitud": -34.791295,
+            "longitud": -70.844392
+        },
+        {
+            "id_arbol": "12",
+            "tipo": "palto",
+            "nombre_cientifico": "Persea americana",
+            "latitud": -33.262255,
+            "longitud": -70.844146
+        },
+        {
+            "id_arbol": "13",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -33.12588,
+            "longitud": -70.970219
+        },
+        {
+            "id_arbol": "14",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -34.803501,
+            "longitud": -70.788729
+        },
+        {
+            "id_arbol": "15",
+            "tipo": "manzano",
+            "nombre_cientifico": "Malus domestica",
+            "latitud": -34.693869,
+            "longitud": -70.511096
+        },
+        {
+            "id_arbol": "16",
+            "tipo": "nogal",
+            "nombre_cientifico": "Juglans regia",
+            "latitud": -33.558748,
+            "longitud": -70.896176
+        },
+        {
+            "id_arbol": "17",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -33.81705,
+            "longitud": -71.800389
+        },
+        {
+            "id_arbol": "18",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -33.609397,
+            "longitud": -70.500497
+        },
+        {
+            "id_arbol": "19",
+            "tipo": "nogal",
+            "nombre_cientifico": "Juglans regia",
+            "latitud": -34.632214,
+            "longitud": -70.810576
+        },
+        {
+            "id_arbol": "20",
+            "tipo": "manzano",
+            "nombre_cientifico": "Malus domestica",
+            "latitud": -34.825182,
+            "longitud": -70.184495
+        },
+        {
+            "id_arbol": "21",
+            "tipo": "manzano",
+            "nombre_cientifico": "Malus domestica",
+            "latitud": -33.53183,
+            "longitud": -71.435056
+        },
+        {
+            "id_arbol": "22",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -33.072748,
+            "longitud": -71.306403
+        },
+        {
+            "id_arbol": "23",
+            "tipo": "manzano",
+            "nombre_cientifico": "Malus domestica",
+            "latitud": -34.437969,
+            "longitud": -70.92473
+        },
+        {
+            "id_arbol": "24",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -33.968638,
+            "longitud": -71.201118
+        },
+        {
+            "id_arbol": "25",
+            "tipo": "nogal",
+            "nombre_cientifico": "Juglans regia",
+            "latitud": -33.114803,
+            "longitud": -70.411794
+        },
+        {
+            "id_arbol": "26",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -33.475228,
+            "longitud": -71.98867
+        },
+        {
+            "id_arbol": "27",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -33.22318,
+            "longitud": -70.067491
+        },
+        {
+            "id_arbol": "28",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -33.868535,
+            "longitud": -70.641267
+        },
+        {
+            "id_arbol": "29",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -34.807224,
+            "longitud": -71.529651
+        },
+        {
+            "id_arbol": "30",
+            "tipo": "naranjo",
+            "nombre_cientifico": "Citrus sinensis",
+            "latitud": -34.662529,
+            "longitud": -71.334706
+        }
+    ],
+    "formularios": [
+        {
+            "id_formulario": "1",
+            "encargado": "Encargado 12",
+            "arbol": "25"
+        },
+        {
+            "id_formulario": "2",
+            "encargado": "Encargado 20",
+            "arbol": "22"
+        },
+        {
+            "id_formulario": "3",
+            "encargado": "Encargado 20",
+            "arbol": "19"
+        },
+        {
+            "id_formulario": "4",
+            "encargado": "Encargado 2",
+            "arbol": "20"
+        },
+        {
+            "id_formulario": "5",
+            "encargado": "Encargado 8",
+            "arbol": "19"
+        },
+        {
+            "id_formulario": "6",
+            "encargado": "Encargado 4",
+            "arbol": "4"
+        },
+        {
+            "id_formulario": "7",
+            "encargado": "Encargado 3",
+            "arbol": "29"
+        },
+        {
+            "id_formulario": "8",
+            "encargado": "Encargado 4",
+            "arbol": "21"
+        },
+        {
+            "id_formulario": "9",
+            "encargado": "Encargado 16",
+            "arbol": "22"
+        },
+        {
+            "id_formulario": "10",
+            "encargado": "Encargado 17",
+            "arbol": "3"
+        },
+        {
+            "id_formulario": "11",
+            "encargado": "Encargado 9",
+            "arbol": "6"
+        },
+        {
+            "id_formulario": "12",
+            "encargado": "Encargado 1",
+            "arbol": "11"
+        },
+        {
+            "id_formulario": "13",
+            "encargado": "Encargado 11",
+            "arbol": "21"
+        },
+        {
+            "id_formulario": "14",
+            "encargado": "Encargado 13",
+            "arbol": "11"
+        },
+        {
+            "id_formulario": "15",
+            "encargado": "Encargado 5",
+            "arbol": "13"
+        },
+        {
+            "id_formulario": "16",
+            "encargado": "Encargado 1",
+            "arbol": "26"
+        },
+        {
+            "id_formulario": "17",
+            "encargado": "Encargado 5",
+            "arbol": "4"
+        },
+        {
+            "id_formulario": "18",
+            "encargado": "Encargado 8",
+            "arbol": "21"
+        },
+        {
+            "id_formulario": "19",
+            "encargado": "Encargado 8",
+            "arbol": "2"
+        },
+        {
+            "id_formulario": "20",
+            "encargado": "Encargado 1",
+            "arbol": "27"
+        }
+    ],
+    "plagas": [
+        {
+            "plaga_detectada": "TRIPS",
+            "grado_dano": "ALTO",
+            "poblacion": "ALTO",
+            "observacion": "Plaga en proceso de crecimiento"
+        },
+        {
+            "plaga_detectada": "ESCAMA BLANCA",
+            "grado_dano": "MEDIO",
+            "poblacion": "ALTO",
+            "observacion": ""
+        },
+        {
+            "plaga_detectada": "TRIPS",
+            "grado_dano": "ALTO",
+            "poblacion": "ALTO",
+            "observacion": "Plaga potencialmente peligrosa"
+        },
+        {
+            "plaga_detectada": "ARA\u00d1ITA ROJA",
+            "grado_dano": "LEVE",
+            "poblacion": "LEVE",
+            "observacion": "Plaga potencialmente peligrosa"
+        },
+        {
+            "plaga_detectada": "ESCAMA BLANCA",
+            "grado_dano": "MEDIO",
+            "poblacion": "ALTO",
+            "observacion": "Plaga en proceso de crecimiento"
+        },
+        {
+            "plaga_detectada": "TRIPS",
+            "grado_dano": "MEDIO",
+            "poblacion": "MEDIO",
+            "observacion": "Plaga en proceso de crecimiento"
+        },
+        {
+            "plaga_detectada": "BURRITO DE LA VID",
+            "grado_dano": "ALTO",
+            "poblacion": "ALTO",
+            "observacion": "Plaga potencialmente peligrosa"
+        },
+        {
+            "plaga_detectada": "ARA\u00d1ITA ROJA",
+            "grado_dano": "ALTO",
+            "poblacion": "LEVE",
+            "observacion": ""
+        },
+        {
+            "plaga_detectada": "CONCHUELA NEGRA DEL OLIVO",
+            "grado_dano": "ALTO",
+            "poblacion": "LEVE",
+            "observacion": "Plaga potencialmente peligrosa"
+        },
+        {
+            "plaga_detectada": "TRIPS",
+            "grado_dano": "LEVE",
+            "poblacion": "LEVE",
+            "observacion": ""
+        },
+        {
+            "plaga_detectada": "TRIPS",
+            "grado_dano": "LEVE",
+            "poblacion": "ALTO",
+            "observacion": "Plaga en proceso de crecimiento"
+        },
+        {
+            "plaga_detectada": "TRIPS",
+            "grado_dano": "MEDIO",
+            "poblacion": "LEVE",
+            "observacion": "Plaga en proceso de crecimiento"
+        },
+        {
+            "plaga_detectada": "CHANCHITO BLANCO",
+            "grado_dano": "ALTO",
+            "poblacion": "LEVE",
+            "observacion": ""
+        },
+        {
+            "plaga_detectada": "CHANCHITO BLANCO",
+            "grado_dano": "MEDIO",
+            "poblacion": "LEVE",
+            "observacion": ""
+        },
+        {
+            "plaga_detectada": "CHANCHITO BLANCO",
+            "grado_dano": "LEVE",
+            "poblacion": "ALTO",
+            "observacion": ""
+        },
+        {
+            "plaga_detectada": "CONCHUELA NEGRA DEL OLIVO",
+            "grado_dano": "LEVE",
+            "poblacion": "LEVE",
+            "observacion": ""
+        },
+        {
+            "plaga_detectada": "TRIPS",
+            "grado_dano": "LEVE",
+            "poblacion": "MEDIO",
+            "observacion": "Plaga en proceso de crecimiento"
+        },
+        {
+            "plaga_detectada": "ESCAMA BLANCA",
+            "grado_dano": "LEVE",
+            "poblacion": "LEVE",
+            "observacion": "Plaga potencialmente peligrosa"
+        },
+        {
+            "plaga_detectada": "CHANCHITO BLANCO",
+            "grado_dano": "ALTO",
+            "poblacion": "LEVE",
+            "observacion": "Plaga en proceso de crecimiento"
+        },
+        {
+            "plaga_detectada": "TRIPS",
+            "grado_dano": "LEVE",
+            "poblacion": "MEDIO",
+            "observacion": "Plaga potencialmente peligrosa"
+        }
+    ],
+    "enfermedades": [
+        {
+            "enfermedad_detectada": "FUSARIUM",
+            "grado_enfermedad": "MEDIO",
+            "observacion": ""
+        },
+        {
+            "enfermedad_detectada": "FUSARIUM",
+            "grado_enfermedad": "LEVE",
+            "observacion": "Enfermedad poco avanzada"
+        },
+        {
+            "enfermedad_detectada": "HONGO DE LA MADERA",
+            "grado_enfermedad": "ALTO",
+            "observacion": "Enfermedad poco avanzada"
+        },
+        {
+            "enfermedad_detectada": "FUSARIUM",
+            "grado_enfermedad": "LEVE",
+            "observacion": ""
+        },
+        {
+            "enfermedad_detectada": "HONGO DE LA MADERA",
+            "grado_enfermedad": "MEDIO",
+            "observacion": ""
+        },
+        {
+            "enfermedad_detectada": "PHYTOPHTHORA",
+            "grado_enfermedad": "ALTO",
+            "observacion": "Enfermedad poco avanzada"
+        },
+        {
+            "enfermedad_detectada": "HONGO DE LA MADERA",
+            "grado_enfermedad": "LEVE",
+            "observacion": ""
+        },
+        {
+            "enfermedad_detectada": "FUSARIUM",
+            "grado_enfermedad": "ALTO",
+            "observacion": ""
+        },
+        {
+            "enfermedad_detectada": "VERTICILOSIS",
+            "grado_enfermedad": "MEDIO",
+            "observacion": ""
+        },
+        {
+            "enfermedad_detectada": "HONGO DE LA MADERA",
+            "grado_enfermedad": "ALTO",
+            "observacion": ""
+        },
+        {
+            "enfermedad_detectada": "VERTICILOSIS",
+            "grado_enfermedad": "ALTO",
+            "observacion": "Enfermedad poco avanzada"
+        },
+        {
+            "enfermedad_detectada": "FUSARIUM",
+            "grado_enfermedad": "MEDIO",
+            "observacion": "Enfermedad poco avanzada"
+        },
+        {
+            "enfermedad_detectada": "FUSARIUM",
+            "grado_enfermedad": "ALTO",
+            "observacion": "Enfermedad poco avanzada"
+        },
+        {
+            "enfermedad_detectada": "FUSARIUM",
+            "grado_enfermedad": "MEDIO",
+            "observacion": ""
+        },
+        {
+            "enfermedad_detectada": "HONGO DE LA MADERA",
+            "grado_enfermedad": "LEVE",
+            "observacion": ""
+        },
+        {
+            "enfermedad_detectada": "VERTICILOSIS",
+            "grado_enfermedad": "MEDIO",
+            "observacion": ""
+        },
+        {
+            "enfermedad_detectada": "HONGO DE LA MADERA",
+            "grado_enfermedad": "LEVE",
+            "observacion": "Enfermedad poco avanzada"
+        },
+        {
+            "enfermedad_detectada": "FUSARIUM",
+            "grado_enfermedad": "ALTO",
+            "observacion": "Enfermedad poco avanzada"
+        },
+        {
+            "enfermedad_detectada": "VERTICILOSIS",
+            "grado_enfermedad": "MEDIO",
+            "observacion": "Enfermedad poco avanzada"
+        },
+        {
+            "enfermedad_detectada": "FUSARIUM",
+            "grado_enfermedad": "ALTO",
+            "observacion": "Enfermedad poco avanzada"
+        }
+    ],
+    "conteos": [
+        {
+            "num_frutas": 75,
+            "kilos_frutas": 41
+        },
+        {
+            "num_frutas": 79,
+            "kilos_frutas": 46
+        },
+        {
+            "num_frutas": 35,
+            "kilos_frutas": 11
+        },
+        {
+            "num_frutas": 39,
+            "kilos_frutas": 40
+        },
+        {
+            "num_frutas": 46,
+            "kilos_frutas": 34
+        },
+        {
+            "num_frutas": 44,
+            "kilos_frutas": 38
+        },
+        {
+            "num_frutas": 90,
+            "kilos_frutas": 20
+        },
+        {
+            "num_frutas": 65,
+            "kilos_frutas": 40
+        },
+        {
+            "num_frutas": 91,
+            "kilos_frutas": 32
+        },
+        {
+            "num_frutas": 62,
+            "kilos_frutas": 36
+        },
+        {
+            "num_frutas": 79,
+            "kilos_frutas": 13
+        },
+        {
+            "num_frutas": 52,
+            "kilos_frutas": 48
+        },
+        {
+            "num_frutas": 72,
+            "kilos_frutas": 50
+        },
+        {
+            "num_frutas": 79,
+            "kilos_frutas": 30
+        },
+        {
+            "num_frutas": 35,
+            "kilos_frutas": 37
+        },
+        {
+            "num_frutas": 46,
+            "kilos_frutas": 28
+        },
+        {
+            "num_frutas": 98,
+            "kilos_frutas": 47
+        },
+        {
+            "num_frutas": 87,
+            "kilos_frutas": 48
+        },
+        {
+            "num_frutas": 39,
+            "kilos_frutas": 13
+        },
+        {
+            "num_frutas": 98,
+            "kilos_frutas": 50
+        }
+    ],
+    "aspersores": [
+        {
+            "estado": "ROTO",
+            "observacion": ""
+        },
+        {
+            "estado": "ROTO",
+            "observacion": "Aspersor con poca presion"
+        },
+        {
+            "estado": "ROTO",
+            "observacion": "Aspersor con poca presion"
+        },
+        {
+            "estado": "ROTO",
+            "observacion": ""
+        },
+        {
+            "estado": "CA\u00cdDO",
+            "observacion": "Aspersor con poca presion"
+        },
+        {
+            "estado": "CA\u00cdDO",
+            "observacion": "Aspersor con poca presion"
+        },
+        {
+            "estado": "TAPADO",
+            "observacion": ""
+        },
+        {
+            "estado": "FALTANTE",
+            "observacion": ""
+        },
+        {
+            "estado": "FALTANTE",
+            "observacion": ""
+        },
+        {
+            "estado": "ROTO",
+            "observacion": "Aspersor con poca presion"
+        },
+        {
+            "estado": "OPERATIVO",
+            "observacion": "Aspersor con poca presion"
+        },
+        {
+            "estado": "FALTANTE",
+            "observacion": "Aspersor con poca presion"
+        },
+        {
+            "estado": "ROTO",
+            "observacion": "Aspersor con poca presion"
+        },
+        {
+            "estado": "OPERATIVO",
+            "observacion": "Aspersor con poca presion"
+        },
+        {
+            "estado": "OPERATIVO",
+            "observacion": ""
+        },
+        {
+            "estado": "ROTO",
+            "observacion": ""
+        },
+        {
+            "estado": "TAPADO",
+            "observacion": ""
+        },
+        {
+            "estado": "FALTANTE",
+            "observacion": "Aspersor con poca presion"
+        },
+        {
+            "estado": "ROTO",
+            "observacion": "Aspersor con poca presion"
+        },
+        {
+            "estado": "ROTO",
+            "observacion": "Aspersor con poca presion"
+        }
+    ]
+}
